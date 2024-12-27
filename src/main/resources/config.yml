@@ -1,0 +1,15 @@
+# Cookieclicker
+
+# General
+
+pluginPrefix: "§8[§4Cookieclicker§8] §8- §7"
+syntaxErrorMsg: "§csyntax Error! %usage%"
+noPermissionMsg: "§cDu hast dafür keine Rechte! %permission%"
+noPlayerFoundMsg: "§cDieser Spieler wurde nicht gefunden! %player%"
+onlyPlayerCmdMsg: "§cDieser Command wird nur von Spielern ausgeführt!"
+
+togglePlayerJoinMsg: true
+playerJoinMsg: "§8[§a+§8] §7%player%"
+togglePlayerQuitMsg: true
+playerQuitMsg: "§8[§c-§8] §7%player%"
+
